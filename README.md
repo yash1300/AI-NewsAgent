@@ -1,1 +1,3 @@
 # AI-NewsAgent
+
+This AI-powered News Agent is designed to keep users up-to-date on the latest developments in the technology and startup sectors. It gathers the top 10 news articles from the past 48 hours using NewsAPI, ensuring only the most relevant and recent stories are included. With an integrated summarization feature from Hugging Face’s transformer models, each article is condensed into a brief summary, making it easy to stay informed without sifting through lengthy content. This streamlined, automated solution is ideal for busy professionals and tech enthusiasts who need quick insights into current trends and important events.
